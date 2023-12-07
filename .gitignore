@@ -123,3 +123,8 @@ dist
 .pnp.*
 
 /.vuepress/dist/
+
+# vnote
+DDMain/vx_recycle_bin/
+
+

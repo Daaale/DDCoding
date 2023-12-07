@@ -1,6 +1,6 @@
 {
-  "name": "codefather",
-  "version": "1.0.0",
+  "name": "DDCoding",
+  "version": "0.0.1",
   "scripts": {
     "docs:dev": "vuepress dev .",
     "docs:build": "vuepress build ."
