@@ -4,9 +4,9 @@ import sidebar from "./sidebar";
 import footer from "./footer";
 import extraSideBar from "./extraSideBar";
 
-const author = "程序员鱼皮";
+const author = "Dale";
 const domain = "https://codefather.cn";
-const tags = ["程序员", "编程", "计算机"];
+const tags = ["程序员", "编程", "运维", "网络安全"];
 
 export default defineConfig({
   title: "鱼皮的编程宝典",
@@ -121,7 +121,7 @@ export default defineConfig({
     lastUpdated: "最近更新",
 
     // GitHub 仓库位置
-    repo: "liyupi/codefather",
+    repo: "Daaale/DDCoding",
     docsBranch: "master",
 
     // 编辑链接
