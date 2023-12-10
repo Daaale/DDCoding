@@ -2,8 +2,8 @@ import {NavItem} from "vuepress/config";
 
 export default [
     {
-        text: "学习路线",
-        link: '/学习路线/'
+        text: "网络安全",
+        link: '/DDMain/网络安全/'
     },
     {
         text: "自学之路",

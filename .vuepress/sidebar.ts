@@ -9,7 +9,7 @@ import programmingShareSideBar from "./sidebars/programmingShareSideBar";
 import AlgorithmClearanceSideBar from "./sidebars/AlgorithmClearanceSideBar";
 // @ts-ignore
 export default {
-    "/学习路线/": roadmapSideBar,
+    "/DDMain/网络安全/": roadmapSideBar,
     "/项目实战/": projectSideBar,
     "/编程导航/": codeNavSideBar,
     "/产品服务/": productSideBar,
