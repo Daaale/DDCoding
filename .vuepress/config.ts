@@ -9,8 +9,8 @@ const domain = "https://codefather.cn";
 const tags = ["程序员", "编程", "运维", "网络安全"];
 
 export default defineConfig({
-  title: "鱼皮的编程宝典",
-  description: "贴心的编程学习路线，全面的编程知识百科",
+  title: "WA宝典",
+  description: "WA学习路线，知识百科",
   head: [
     // 站点图标
     ["link", { rel: "icon", href: "/favicon.ico" }],

@@ -4,25 +4,13 @@
 export default {
   friendLinks: [
     {
-      label: "站长 - 程序员鱼皮",
+      label: "站长 - 带鱼DD",
       // icon: "/icon/user.svg",
-      href: "https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah",
-    },
-    {
-      label: "鱼鸢网络",
-      href: "https://yuyuanweb.com/",
-    },
-    {
-      label: "老鱼简历",
-      href: "https://www.laoyujianli.com/",
-    },
-    {
-      label: "鱼聪明 AI",
-      href: "https://www.yucongming.com/",
+      href: "https://www.baidu.com",
     },
     {
       label: "编程学习圈",
-      href: "https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde",
+      href: "https://www.baidu.com",
     },
   ],
   copyright: {
